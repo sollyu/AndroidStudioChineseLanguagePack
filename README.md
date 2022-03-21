@@ -1,0 +1,1 @@
+# IntelliJ-Chinese-Language-Pack
