@@ -12,5 +12,5 @@ AndroidStudio->设置->插件->从磁盘下载插件->下载的jar包->重启And
 
 ## 下载
 
-进入release下载对应的版本即可：[release](./release)
+进入release下载对应的版本即可：[release](https://github.com/sollyu/AndroidStudioChineseLanguagePack/releases)
 
