@@ -23,6 +23,12 @@ AndroidStudio->设置->插件->从磁盘安装插件->下载的jar包->重启And
 ![sshot-03.png](images/sshot-03.png)
 ![sshot-04.png](images/sshot-04.png)
 
+## 其他
+
+> 因为语言包不需要更新的特别频繁并且本仓库只在Release更新，为了让大家知道这个不是一个死库，所以有了这句话。
+> 
+> 最后编辑时间：2023-02-10
+
 ## LICENSE
 
 ```c++
