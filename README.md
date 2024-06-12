@@ -27,13 +27,13 @@ AndroidStudio->设置->插件->从磁盘安装插件->下载的jar包->重启And
 
 > 因为语言包不需要更新的特别频繁并且本仓库只在Release更新，为了让大家知道这个不是一个死库，所以有了这句话。
 > 
-> 最后编辑时间：2024-04-08
+> 最后编辑时间：2024-06-12
 
 ## LICENSE
 
 ```c++
 /*
- * Copyright (C) 2022. sollyu
+ * Copyright (C) 2022-2024. sollyu
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
