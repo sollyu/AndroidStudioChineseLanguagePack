@@ -8,9 +8,15 @@
 
 ## 使用
 
-AndroidStudio->设置->插件->从磁盘安装插件->下载的jar包->重启AndroidStudio
+```txt
+第一步：AndroidStudio->设置->插件->从磁盘安装插件->下载的jar包->重启AndroidStudio
+第二步：自定义(Customize)->语言和地区(Language and Region)->语言(Language)->Chinese->重启AndroidStudio
+或者 设置->外观与行为->系统设置->Language and Region->语言(Language)->Chinese->重启AndroidStudio
+```
 
-![sshot-01.png](images/sshot-05.png)
+![sshot-01.png](images/PixPin_2025-03-05_09-33-07.png)
+![sshot-06.png](images/PixPin_2025-03-05_09-16-07.png)
+![sshot-06.png](images/PixPin_2025-03-05_09-31-42.png)
 
 ## 下载
 
@@ -27,7 +33,7 @@ AndroidStudio->设置->插件->从磁盘安装插件->下载的jar包->重启And
 
 > 因为语言包不需要更新的特别频繁并且本仓库只在Release更新，为了让大家知道这个不是一个死库，所以有了这句话。
 > 
-> 最后编辑时间：2024-11-26
+> 最后编辑时间：2025-03-05
 
 ## LICENSE
 
