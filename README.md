@@ -11,6 +11,11 @@
 
 直接下载最新的 [release](https://github.com/sollyu/AndroidStudioChineseLanguagePack/releases) ，理论上兼容全部AS版本。
 
+> ### 备注
+> release页面的版本号是`官方IDEA给这个插件的版本号`并非对应到Android Studio的版本号。
+> 
+> 如无特殊的需要，只要下载最新的release即可，无需关心版本号的问题。
+
 
 ## 使用
 
@@ -35,7 +40,7 @@
 
 > 因为语言包不需要更新的特别频繁并且本仓库只在Release更新，为了让大家知道这个不是一个死库，所以有了这句话。
 > 
-> 最后编辑时间：2025-03-05
+> 最后编辑时间：2025-05-23
 
 ## LICENSE
 
