@@ -6,6 +6,12 @@
 
 <https://plugins.jetbrains.com/plugin/index?xmlId=com.intellij.zh>
 
+
+## 下载
+
+直接下载最新的 [release](https://github.com/sollyu/AndroidStudioChineseLanguagePack/releases) ，理论上兼容全部AS版本。
+
+
 ## 使用
 
 ```txt
@@ -17,10 +23,6 @@
 ![sshot-01.png](images/PixPin_2025-03-05_09-33-07.png)
 ![sshot-06.png](images/PixPin_2025-03-05_09-16-07.png)
 ![sshot-06.png](images/PixPin_2025-03-05_09-31-42.png)
-
-## 下载
-
-进入release下载对应的版本即可：[release](https://github.com/sollyu/AndroidStudioChineseLanguagePack/releases)
 
 ## 预览
 
